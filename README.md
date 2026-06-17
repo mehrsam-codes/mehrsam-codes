@@ -87,7 +87,7 @@ Django • FastAPI • REST API • Microservices
 HTML • CSS • JavaScript • React • 
 
 ### Mobile
-Flutter
+Dart/Flutter
 (If I like Both Of Andriod And IOS I choose Flutter !!!) 
 (why I like flutter because I make a API in django and back-end and I get in Flutter I think is so cool)
 ### Database
