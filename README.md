@@ -1,5 +1,4 @@
 # mehrsam-codes
-This Repository Is About Me!!!!
 
 
 # Hey there 👋, I'm Mehrsam
@@ -30,7 +29,7 @@ class Mehrsam:
             "CSS",
             "JavaScript",
             "React",
-            "Next.js"
+            
         ]
         self.mobile = ["Flutter"]
         self.interests = [
@@ -50,7 +49,7 @@ class Mehrsam:
 
 🔭 Building Full-Stack Applications
 
-🌱 Learning React, Next.js, Flutter, AI, and Cyber Security
+🌱 Learning React, Flutter, AI, and Cyber Security
 
 🤖 Exploring Machine Learning and Intelligent Systems
 
@@ -94,11 +93,11 @@ Flutter
 
 ### Database
 
-PostgreSQL • MySQL • SQLite • Redis
+PostgreSQL • MySQL • SQLite • Redis • SQL Server
 
 ### DevOps & Tools
 
-Docker • Git • GitHub • Linux • Nginx
+Docker • Git • GitHub • Linux • Nginx • kubernetes
 
 ---
 
