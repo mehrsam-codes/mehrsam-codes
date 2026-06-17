@@ -1,6 +1,4 @@
 # mehrsam-codes
-
-
 # Hey there 👋, I'm Mehrsam
 
 ### 🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🛡️ Cyber Security Learner | 📱 Flutter Developer
@@ -47,9 +45,9 @@ class Mehrsam:
 
 ## 🔥 What I'm Doing Right Now
 
-🔭 Building Full-Stack Applications
+🔭 Building Full-Stack Applications and Web
 
-🌱 Learning React, Flutter, AI, and Cyber Security
+🌱 Learning React, Flutter, AI,  Cyber Security  , And Network
 
 🤖 Exploring Machine Learning and Intelligent Systems
 
@@ -60,7 +58,8 @@ class Mehrsam:
 🚀 Working toward becoming an expert Software Engineer
 
 ---
-
+## AI 
+In Ai I learning Ml(Machine Learning) and Dl(Deep Learning) . 
 ## 🧠 Areas of Interest
 
 * Full-Stack Development
@@ -78,19 +77,19 @@ class Mehrsam:
 ### Languages
 
 Python • JavaScript • Dart • SQL
-
+My Main Programing  Language is Python And I Love It .
 ### Backend
 
 Django • FastAPI • REST API • Microservices
 
 ### Frontend
 
-HTML • CSS • JavaScript • React • Next.js
+HTML • CSS • JavaScript • React • 
 
 ### Mobile
-
 Flutter
-
+(If I like Both Of Andriod And IOS I choose Flutter !!!) 
+(why I like flutter because I make a API in django and back-end and I get in Flutter I think is so cool)
 ### Database
 
 PostgreSQL • MySQL • SQLite • Redis • SQL Server
@@ -120,4 +119,6 @@ I learn them to build products, solve problems, and push my limits every single 
 ### 🚀 Code • Build • Secure • Innovate • Repeat
 
 ⭐ Thanks for visiting my profile.
+❤ Nice To Meet You !
+Email = mehrsamdevelop@gmail.com 
 
