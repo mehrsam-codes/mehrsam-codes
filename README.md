@@ -1,7 +1,7 @@
 # mehrsam-codes
 # Hey there 👋, I'm Mehrsam
 
-### 🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🛡️ Cyber Security Learner | 📱 Flutter Developer
+### 🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🛡️ Cyber Security Learner | 📱 Flutter Developer | 🖥 IOT 
 
 
 
@@ -49,8 +49,6 @@ class Mehrsam:
 
 🌱 Learning React, Flutter, AI,  Cyber Security  , And Network
 
-Work in Iot and Learn Arduino and C++ and Raspberry pi
-
 🤖 Exploring Machine Learning and Intelligent Systems
 
 🛡️ Studying Security Concepts and Secure Software Development
@@ -62,6 +60,8 @@ Work in Iot and Learn Arduino and C++ and Raspberry pi
 ---
 ## AI 
 In Ai I learning Ml(Machine Learning) and Dl(Deep Learning) . 
+## IOT
+Work in Iot and Learn Arduino and C++ and Raspberry pi
 ## 🧠 Areas of Interest
 
 * Full-Stack Development
