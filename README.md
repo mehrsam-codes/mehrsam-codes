@@ -48,7 +48,7 @@ class Mehrsam:
 🔭 Building Full-Stack Applications and Web
 
 🌱 Learning React, Flutter, AI,  Cyber Security  , And Network
-
+🖥 Work in Iot and Learn Arduino and C++ and Raspberry pi
 🤖 Exploring Machine Learning and Intelligent Systems
 
 🛡️ Studying Security Concepts and Secure Software Development
