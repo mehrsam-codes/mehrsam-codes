@@ -49,7 +49,7 @@ class Mehrsam:
 
 🌱 Learning React, Flutter, AI,  Cyber Security  , And Network
 
-🖥 Work in Iot and Learn Arduino and C++ and Raspberry pi
+Work in Iot and Learn Arduino and C++ and Raspberry pi
 
 🤖 Exploring Machine Learning and Intelligent Systems
 
