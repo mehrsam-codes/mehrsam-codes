@@ -15,7 +15,7 @@ class Mehrsam:
 
     def __init__(self):
         self.role = "Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "Dart"]
+        self.languages = ["Python", "JavaScript", "Dart" , "C++"]
         self.backend = [
             "Django",
             "FastAPI",
