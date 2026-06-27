@@ -1,126 +1,197 @@
-# mehrsam-codes
-# Hey there 👋, I'm Mehrsam
+<div align="center">
 
-### 🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🛡️ Cyber Security Learner | 📱 Flutter Developer | 🖥 IOT 
+# 🚀 Hey, I'm Mehrsam
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Python+Backend+Developer;Django+%26+Django+REST+Framework;REST+API+Developer;Learning+JavaScript;Future+React+Developer;Future+Machine+Learning+Engineer"/>
 
+<p>
+<img src="https://img.shields.io/github/followers/mehrsam-codes?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/mehrsam-codes?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mehrsam-codes&style=for-the-badge&color=blue"/>
+</p>
 
+</div>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
 ```python
 class Mehrsam:
 
     def __init__(self):
-        self.role = "Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "Dart" , "C++"]
+
+        self.username = "mehrsam-codes"
+
+        self.age = 14
+
+        self.role = "Backend Developer"
+
+        self.languages = [
+            "Python",
+            "JavaScript"
+        ]
+
         self.backend = [
             "Django",
-            "FastAPI",
-            "REST API",
-            "Microservices"
+            "Django REST Framework",
+            "PostgreSQL"
         ]
-        self.frontend = [
-            "HTML",
-            "CSS",
-            "JavaScript",
+
+        self.learning = [
+            "Advanced Django",
+            "JavaScript"
+        ]
+
+        self.future = [
             "React",
-            
-        ]
-        self.mobile = ["Flutter"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Cyber Security",
-            "Internet of Things",
-            "Cloud & DevOps"
+            "TypeScript",
+            "React Native",
+            "Machine Learning",
+            "Deep Learning"
         ]
 
     def motto(self):
-        return "Code. Build. Secure. Innovate. Repeat."
+        return "Build. Learn. Repeat."
 ```
 
 ---
 
-## 🔥 What I'm Doing Right Now
+# ⚡ Tech Stack
 
-🔭 Building Full-Stack Applications and Web
+<div align="center">
 
-🌱 Learning React, Flutter, AI,  Cyber Security  , And Network
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,html,css,js,docker,typescript,git,github,vscode,linux,bash,react"/>
 
-🤖 Exploring Machine Learning and Intelligent Systems
-
-🛡️ Studying Security Concepts and Secure Software Development
-
-📱 Building Cross-Platform Applications with Flutter
-
-🚀 Working toward becoming an expert Software Engineer
-
----
-## AI 
-In Ai I learning Ml(Machine Learning) and Dl(Deep Learning) . 
-## IOT
-Work in Iot and Learn Arduino and C++ and Raspberry pi
-## 🧠 Areas of Interest
-
-* Full-Stack Development
-* Artificial Intelligence & Machine Learning
-* Cyber Security
-* Internet of Things (IoT)
-* Mobile Development
-* Cloud Computing & DevOps
-* System Design & Software Architecture
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Current Mission
 
-### Languages
+```text
+✔ Building REST APIs
 
-Python • JavaScript • Dart • SQL
-My Main Programing  Language is Python And I Love It .
-### Backend
+✔ Clean Backend Architecture
 
-Django • FastAPI • REST API • Microservices
+✔ Authentication & JWT
 
-### Frontend
+✔ PostgreSQL
 
-HTML • CSS • JavaScript • React • 
+✔ Learning JavaScript
 
-### Mobile
-Dart/Flutter
-(If I like Both Of Andriod And IOS I choose Flutter !!!) 
-(why I like flutter because I make a API in django and back-end and I get in Flutter I think is so cool)
-### Database
-
-PostgreSQL • MySQL • SQLite • Redis • SQL Server
-
-### DevOps & Tools
-
-Docker • Git • GitHub • Linux • Nginx • kubernetes
+✔ Becoming a Full Stack Developer
+```
 
 ---
 
-## 🎯 Mission
+# 🗺 Roadmap
 
-> Build scalable software, develop intelligent systems, create secure applications, and turn ideas into products that make an impact.
+```mermaid
+graph TD
+
+Python --> Django
+
+Django --> DRF
+
+DRF --> Html-Css
+Html-Css --> JavaScript
+JavaScript --> React
+
+React --> TypeScript
+
+TypeScript --> ReactNative
+
+ReactNative --> MachineLearning
+
+MachineLearning --> DeepLearning
+```
 
 ---
 
-## ⚡ Fun Fact
+# 📊 GitHub Analytics
 
-I don't learn technologies just to know them.
+<p align="center">
 
-I learn them to build products, solve problems, and push my limits every single day.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mehrsam-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrsam-codes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mehrsam-codes&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
+# 📈 Contribution Graph
 
+<p align="center">
 
-### 🚀 Code • Build • Secure • Innovate • Repeat
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrsam-codes&theme=tokyo-night"/>
 
-⭐ Thanks for visiting my profile.
-❤ Nice To Meet You !
-Email = mehrsamdevelop@gmail.com 
+</p>
 
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehrsam-codes&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 💻 Favorite Quote
+
+> "The code you write today is the foundation of what you'll build tomorrow."
+
+---
+
+# 🎯 2026 Goals
+
+* 🐍 Master Python
+* ⚙ Master Django
+* 🚀 Master Django REST Framework
+* ⚡ Learn Modern JavaScript
+* ⚛ Learn React
+* 🔷 Learn TypeScript
+* 📱 Learn React Native
+* 🤖 Start Machine Learning
+* 🧠 Explore Deep Learning
+* 🌍 Contribute to Open Source
+
+---
+
+# 🎵 Coding Mood
+
+```text
+while(alive){
+
+    Eat();
+
+    Code();
+
+    Learn();
+
+    Sleep();
+
+    Repeat();
+
+}
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Consistency beats talent when talent doesn't stay consistent."*
+
+</div>
