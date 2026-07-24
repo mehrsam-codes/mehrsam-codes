@@ -299,7 +299,6 @@ class Mehrsam:
 
 # 🐍 Snake Contribution
 
-> پس از ساخت Repository مخصوص GitHub Action، این انیمیشن به‌صورت خودکار ساخته می‌شود.
 
 ```md
 <p align="center">
