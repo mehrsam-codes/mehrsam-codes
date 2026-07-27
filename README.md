@@ -95,7 +95,7 @@ class Mehrsam:
 ## 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,go,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,go,js,html,css" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ class Mehrsam:
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,spring" />
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
 
 <p>
@@ -193,11 +193,6 @@ class Mehrsam:
 🐹 Go
 ████████░░░░░░░░░░░░░░
 
-☕ Java
-██████░░░░░░░░░░░░░░░░
-
-🍃 Spring Boot
-█████░░░░░░░░░░░░░░░░░
 
 📱 React Native
 ███░░░░░░░░░░░░░░░░░░░
@@ -346,12 +341,6 @@ class Mehrsam:
                         │
                         ▼
           ☸️ Kubernetes & DevOps
-                        │
-                        ▼
-          ☕ Java Enterprise Development
-                        │
-                        ▼
-             🍃 Spring Boot
                         │
                         ▼
           📱 React Native Apps
