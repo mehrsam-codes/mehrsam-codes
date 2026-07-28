@@ -41,14 +41,14 @@ class Mehrsam:
         "Django",
         "FastAPI",
         "Go",
-        "Java",
-        "Spring Boot"
+        'C#'
     ]
 
     frontend = [
         "HTML",
         "CSS",
         "JavaScript",
+        "typescript",
         "React"
     ]
 
@@ -95,7 +95,7 @@ class Mehrsam:
 ## 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,go,cs,js,ts,html,css" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ class Mehrsam:
 ## 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 </p>
 
 ---
@@ -551,7 +551,7 @@ class SoftwareEngineer:
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mehrsamdevelop@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
