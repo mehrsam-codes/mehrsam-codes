@@ -4,7 +4,7 @@
 <!-- ====================================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3500&pause=500&color=6ECB9E&center=true&vCenter=true&width=700&lines=Mehrsam+Codes;Backend+Architect;Full-Stack+Engineer;Iot+Developer;Go+%7C+Python+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3500&pause=500&color=6ECB9E&center=true&vCenter=true&width=700&lines=Mehrsam+Mirshekar;Backend+Architect;AI+Engineer;Iot+Developer;Go+%7C+Python+%7C+Cpp" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,8 +30,8 @@
 
 <p align="center">
   <samp>
-    <strong>Core</strong> · Go · Python (Django, FastAPI) · TypeScript · C++<br />
-    <strong>Stack</strong> · React · TailwindCSS · PostgreSQL · Redis · Docker · Kubernetes
+    <strong>Core</strong> · Go · Python (Django, FastAPI) · C++<br />
+    <strong>Stack</strong> · PostgreSQL · Redis · Docker · Kubernetes
   </samp>
 </p>
 
@@ -52,12 +52,11 @@
 <pre align="center" style="background:#0d1117; padding:20px; border-radius:8px; border:1px solid #30363d; display:inline-block; text-align:left; color:#e6edf3;">
 <code>
   ~/mehrsam $ whoami
-  → Backend Architect · Full-Stack Engineer
+  → Backend Architect 
 
   ~/mehrsam $ cat skills.txt
-  → Languages   :  Go, Python, TypeScript, C++
-  → Backend     :  Django, FastAPI, Gin, Node.js
-  → Frontend    :  React, TailwindCSS
+  → Languages   :  Go, Python,  C++
+  → Backend     :  Django, FastAPI,
   → Databases   :  PostgreSQL, MongoDB, Redis
   → IoT         :  ESP32, MicroPython, C++ (ESP-IDF)
   → DevOps      :  Docker, Kubernetes, Git, Linux
@@ -82,15 +81,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
 </p>
 
 <p align="center">
