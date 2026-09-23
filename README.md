@@ -1,15 +1,15 @@
 <!-- ====================================================== -->
 
-<!--                 MEHRSAM CODES                         -->
+<!--                  MEHRSAM CODES                         -->
 
-<!--        WORDPRESS • PHP • AI • COMPUTER VISION         -->
+<!--        PYTHON • AI • WORDPRESS • PHP                   -->
 
 <!-- ====================================================== -->
 
 <div align="center">
 
 <img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=6ECB9E&center=true&vCenter=true&width=850&lines=Mehrsam+Mirshekar;WordPress+Developer;PHP+Developer;AI+%26+Computer+Vision;Python+Developer"
+ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=6ECB9E&center=true&vCenter=true&width=900&lines=Mehrsam+Mirshekar;Python+Developer;Python+%7C+My+Primary+Language;AI+%26+Computer+Vision;WordPress+%26+PHP+Developer"
  alt="Typing SVG"
 />
 
@@ -23,7 +23,7 @@
   <br>
 
   <samp>
-    WordPress • PHP • AI • Computer Vision • Python
+    Python • Artificial Intelligence • Computer Vision • WordPress • PHP
   </samp>
 
 <br><br>
@@ -49,7 +49,7 @@
 
 <!-- ====================================================== -->
 
-<!--                     ABOUT ME                           -->
+<!--                      ABOUT ME                          -->
 
 <!-- ====================================================== -->
 
@@ -60,31 +60,36 @@
 <div align="center">
 
   <samp>
-    I'm a developer focused on building modern,
-    functional and professional web experiences with WordPress.
+    I'm a <strong>Python Developer</strong>, and Python is my
+    primary programming language.
   </samp>
 
 <br><br>
 
   <samp>
-    My main focus is <strong>WordPress Development</strong> and
-    <strong>PHP</strong>, with an emphasis on custom themes,
-    plugins, WooCommerce and website optimization.
+    I genuinely love Python and use it as the foundation
+    of my programming journey.
   </samp>
 
 <br><br>
 
   <samp>
-    Alongside web development, I'm building my expertise in
-    <strong>Artificial Intelligence</strong> and
-    <strong>Computer Vision</strong> using Python.
+    I use Python for <strong>Backend Development, Artificial Intelligence,
+    Machine Learning and Computer Vision</strong>.
   </samp>
 
 <br><br>
 
   <samp>
-    I believe in learning deeply, building real projects
-    and turning knowledge into practical products.
+    Alongside Python, I work with <strong>WordPress and PHP</strong>
+    to build modern websites, custom themes, plugins and WooCommerce projects.
+  </samp>
+
+<br><br>
+
+  <samp>
+    My goal is to build useful real-world projects,
+    learn deeply and continuously improve my skills.
   </samp>
 
 </div>
@@ -93,7 +98,7 @@
 
 <!-- ====================================================== -->
 
-<!--                      TERMINAL                          -->
+<!--                       TERMINAL                         -->
 
 <!-- ====================================================== -->
 
@@ -111,33 +116,42 @@
 <code>
 ~/mehrsam $ whoami
 
-→ WordPress Developer & AI Developer
+→ Python Developer
 
 
-~/mehrsam $ cat stack.txt
+~/mehrsam $ cat primary_language.txt
 
-→ WordPress : Themes · Plugins · WooCommerce
-→ PHP       : WordPress Development · APIs
-→ Frontend  : HTML · CSS 
-→ SEO       : Technical SEO · WordPress SEO
-→ AI        : Machine Learning · Computer Vision
-→ Python    : NumPy · Pandas · Scikit-learn · OpenCV
-→ Backend   : Django · FastAPI
-→ Tools     : Git · Docker · Linux
+→ Python
+
+→ My favorite programming language.
+→ My main programming language.
+→ The foundation of my programming journey.
+
+
+~/mehrsam $ cat skills.txt
+
+→ Python        : Primary Language
+→ AI            : Machine Learning · Deep Learning
+→ Computer Vision : OpenCV · Image Processing
+→ Backend       : Django · FastAPI
+→ WordPress     : Themes · Plugins · WooCommerce
+→ PHP           : WordPress Development
+→ SEO           : Technical SEO · Optimization
+→ Tools         : Git · Docker · Linux
 
 
 ~/mehrsam $ cat philosophy.txt
 
 → Learn deeply.
 → Build real projects.
-→ Write clean code.
-→ Focus on practical skills.
-→ Ship consistently.
+→ Keep code clean.
+→ Practice through projects.
+→ Never stop improving.
 
 
 ~/mehrsam $ status
 
-→ Building · Learning · Improving
+→ Learning · Building · Improving
 </code>
 </pre>
 
@@ -159,7 +173,49 @@
   <code>▎Tech Stack</code>
 </h3>
 
-<h4 align="center">Web Development</h4>
+<h4 align="center">🐍 Python & Programming</h4>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+</p>
+
+<h4 align="center">🤖 AI & Computer Vision</h4>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+</p>
+
+<h4 align="center">🌐 Backend Development</h4>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+
+</p>
+
+<h4 align="center">🧩 WordPress & PHP</h4>
 
 <p align="center">
 
@@ -169,51 +225,27 @@
 
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 
+</p>
+
+<h4 align="center">🎨 Web Technologies</h4>
+
+<p align="center">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
 </p>
 
-<h4 align="center">AI & Computer Vision</h4>
+<h4 align="center">🗄️ Databases & Tools</h4>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-</p>
-
-<h4 align="center">Backend</h4>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-</p>
-
-<h4 align="center">Databases & Tools</h4>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
@@ -229,24 +261,32 @@
 
 <!-- ====================================================== -->
 
-<!--                  WORDPRESS DEVELOPMENT                  -->
+<!--                  PYTHON DEVELOPMENT                    -->
 
 <!-- ====================================================== -->
 
 <h3 align="center">
-  <code>▎WordPress Development</code>
+  <code>▎Python Development</code>
 </h3>
 
 <div align="center">
 
   <samp>
-    <strong>WordPress</strong> · Custom Themes · Custom Plugins
-    <br>
-    <strong>WooCommerce</strong> · Products · Checkout · Payments
-    <br>
-    <strong>PHP</strong> · Hooks · Filters · WordPress APIs
-    <br>
-    <strong>SEO</strong> · Technical SEO · Performance Optimization
+    <strong>Python is my primary programming language.</strong>
+  </samp>
+
+<br><br>
+
+  <samp>
+    I use Python to build backend applications,
+    automation tools and AI-powered projects.
+  </samp>
+
+<br><br>
+
+  <samp>
+    Python is the language I enjoy working with the most,
+    and I want to keep growing as a professional Python Developer.
   </samp>
 
 </div>
@@ -255,7 +295,7 @@
 
 <!-- ====================================================== -->
 
-<!--                    ARTIFICIAL INTELLIGENCE             -->
+<!--                AI & COMPUTER VISION                   -->
 
 <!-- ====================================================== -->
 
@@ -266,18 +306,29 @@
 <div align="center">
 
   <samp>
-    Building my AI foundation with <strong>Python</strong>
-    and practical machine learning projects.
+    I'm building my AI expertise with Python,
+    focusing especially on <strong>Computer Vision</strong>.
   </samp>
 
 <br><br>
 
   <samp>
-    <strong>Machine Learning</strong> · Data preprocessing · Model training · Evaluation
-    <br>
-    <strong>Computer Vision</strong> · Image Processing · OpenCV
-    <br>
-    <strong>Deep Learning</strong> · Neural Networks · PyTorch
+    <strong>Machine Learning</strong>
+    · Data Processing · Model Training · Evaluation
+  </samp>
+
+  <br>
+
+  <samp>
+    <strong>Computer Vision</strong>
+    · Image Processing · OpenCV · Visual AI
+  </samp>
+
+  <br>
+
+  <samp>
+    <strong>Deep Learning</strong>
+    · Neural Networks · PyTorch
   </samp>
 
 </div>
@@ -286,7 +337,49 @@
 
 <!-- ====================================================== -->
 
-<!--                       CURRENT FOCUS                    -->
+<!--                WORDPRESS DEVELOPMENT                   -->
+
+<!-- ====================================================== -->
+
+<h3 align="center">
+  <code>▎WordPress Development</code>
+</h3>
+
+<div align="center">
+
+  <samp>
+    My second major development path is
+    <strong>WordPress Development</strong>.
+  </samp>
+
+<br><br>
+
+  <samp>
+    <strong>WordPress</strong>
+    · Custom Themes · Plugins · WooCommerce
+  </samp>
+
+  <br>
+
+  <samp>
+    <strong>PHP</strong>
+    · Hooks · Filters · WordPress APIs · Plugin Development
+  </samp>
+
+  <br>
+
+  <samp>
+    <strong>SEO</strong>
+    · Technical SEO · Performance · WordPress Optimization
+  </samp>
+
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+
+<!--                    CURRENT FOCUS                       -->
 
 <!-- ====================================================== -->
 
@@ -299,27 +392,27 @@
   <samp>
 
 ```
-<strong>01 · WordPress Development</strong>
+🐍 <strong>Python Development</strong>
 <br>
-Themes · Plugins · WooCommerce · Customization
+Python is my primary language and my main programming focus.
 
 <br><br>
 
-<strong>02 · PHP Development</strong>
+🤖 <strong>Artificial Intelligence</strong>
 <br>
-WordPress APIs · Hooks · Filters · Plugin Development
+Machine Learning · Deep Learning · Computer Vision
 
 <br><br>
 
-<strong>03 · AI & Computer Vision</strong>
+🧩 <strong>WordPress Development</strong>
 <br>
-Python · Machine Learning · OpenCV · Deep Learning
+WordPress · PHP · Themes · Plugins · WooCommerce
 
 <br><br>
 
-<strong>04 · SEO & Web Performance</strong>
+🔎 <strong>SEO</strong>
 <br>
-Technical SEO · Speed · Optimization
+Technical SEO · Website Performance · Optimization
 ```
 
   </samp>
@@ -330,7 +423,51 @@ Technical SEO · Speed · Optimization
 
 <!-- ====================================================== -->
 
-<!--                   GITHUB ANALYTICS                     -->
+<!--                     PROJECTS                           -->
+
+<!-- ====================================================== -->
+
+<h3 align="center">
+  <code>▎What I'm Building</code>
+</h3>
+
+<div align="center">
+
+  <samp>
+
+```
+🐍 <strong>Python Projects</strong>
+<br>
+Practical software and automation projects with Python.
+
+<br><br>
+
+🤖 <strong>AI & Computer Vision Projects</strong>
+<br>
+Machine Learning and Computer Vision projects using Python.
+
+<br><br>
+
+🛒 <strong>WordPress & WooCommerce Projects</strong>
+<br>
+Professional websites, online stores and custom WordPress solutions.
+
+<br><br>
+
+🧩 <strong>WordPress Plugins</strong>
+<br>
+Learning and building custom plugins with PHP.
+```
+
+  </samp>
+
+</div>
+
+<br>
+
+<!-- ====================================================== -->
+
+<!--                  GITHUB ANALYTICS                      -->
 
 <!-- ====================================================== -->
 
@@ -367,44 +504,6 @@ Technical SEO · Speed · Optimization
 
 <!-- ====================================================== -->
 
-<!--                      PROJECTS                          -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎What I'm Building</code>
-</h3>
-
-<div align="center">
-
-  <samp>
-
-```
-🛒 <strong>WooCommerce Projects</strong>
-<br>
-Building modern e-commerce websites with WordPress.
-
-<br><br>
-
-🧩 <strong>WordPress Plugins</strong>
-<br>
-Learning and developing custom PHP plugins.
-
-<br><br>
-
-🤖 <strong>AI Projects</strong>
-<br>
-Exploring Machine Learning and Computer Vision with Python.
-```
-
-  </samp>
-
-</div>
-
-<br>
-
-<!-- ====================================================== -->
-
 <!--                       CONNECT                          -->
 
 <!-- ====================================================== -->
@@ -416,19 +515,31 @@ Exploring Machine Learning and Computer Vision with Python.
 <p align="center">
 
   <a href="https://linkedin.com/in/mehrsam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://twitter.com/mehrsam">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Twitter"
+    />
   </a>
 
   <a href="mailto:mehrsam@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://dev.to/mehrsam">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+      alt="dev.to"
+    />
   </a>
 
 </p>
@@ -455,7 +566,13 @@ Exploring Machine Learning and Computer Vision with Python.
 <br><br>
 
   <samp>
-    Build real things. Learn deeply. Keep improving.
+    Build with Python. Learn deeply. Build real things.
   </samp>
 
 </div>
+
+<!-- ====================================================== -->
+
+<!--                        END                             -->
+
+<!-- ====================================================== -->
