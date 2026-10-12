@@ -1,578 +1,175 @@
-<!-- ====================================================== -->
+# 👋 Hey, I'm Mehrsam Mirshekar!
 
-<!--                  MEHRSAM CODES                         -->
+### 🐍 Python Developer | 🤖 Machine Learning | 🌐 WordPress Developer | ⚡ IoT & PCB Design
 
-<!--        PYTHON • AI • WORDPRESS • PHP                   -->
+**Building projects, learning new technologies, and turning ideas into reality.** 🚀
 
-<!-- ====================================================== -->
+---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-<img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=700&color=6ECB9E&center=true&vCenter=true&width=900&lines=Mehrsam+Mirshekar;Python+Developer;Python+%7C+My+Primary+Language;AI+%26+Computer+Vision;WordPress+%26+PHP+Developer"
- alt="Typing SVG"
-/>
+Hi! I'm Mehrsam, a developer interested in Artificial Intelligence, web development, electronics, and embedded systems.
 
-<br><br>
+I enjoy learning by building real projects and exploring how software and hardware can work together.
 
-<img
- src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"
- width="70%"
-/>
+- 🐍 Working with Python and exploring Machine Learning.
+- 🤖 Learning data preprocessing, regression, and model evaluation.
+- 🌐 Developing WordPress websites and WooCommerce stores.
+- 💻 Building websites with PHP, HTML, CSS, and JavaScript.
+- ⚡ Exploring IoT and embedded programming with C++ and MicroPython.
+- 🔌 Learning electronic circuit design and PCB layout with Altium Designer.
+- 📊 Using R to explore statistics and data analysis.
 
-  <br>
+My goal is to keep improving my skills and build useful, real-world projects.
 
-  <samp>
-    Python • Artificial Intelligence • Computer Vision • WordPress • PHP
-  </samp>
+---
 
-<br><br>
+## 🛠️ Technologies & Tools
 
-<img
- src="https://komarev.com/ghpvc/?username=mehrsam-codes&label=Profile%20Views&color=6ECB9E&style=flat-square"
- alt="Profile Views"
-/>
+### 🐍 Programming Languages
 
-<img
- src="https://img.shields.io/github/followers/mehrsam-codes?label=Followers&style=flat-square&color=6ECB9E"
- alt="Followers"
-/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<img
- src="https://img.shields.io/github/stars/mehrsam-codes?label=Stars&style=flat-square&color=6ECB9E"
- alt="Stars"
-/>
+### 🤖 Machine Learning & Data Science
 
-</div>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<br>
+**Currently exploring:**
+- Data cleaning and preprocessing
+- Handling missing values
+- Categorical encoding and feature scaling
+- Linear and multiple regression
+- Training and evaluating ML models
+- Statistical analysis with R
 
-<!-- ====================================================== -->
+### 🌐 Web Development
 
-<!--                      ABOUT ME                          -->
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<!-- ====================================================== -->
+**Areas of interest:**
+- WordPress website development
+- WooCommerce and online stores
+- PHP customization and plugin development
+- Responsive design with HTML and CSS
+- Django backend development
+- Modern frontend development
 
-<h3 align="center">
-  <code>▎About Me</code>
-</h3>
+### ⚡ IoT & Embedded Systems
 
-<div align="center">
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-  <samp>
-    I'm a <strong>Python Developer</strong>, and Python is my
-    primary programming language.
-  </samp>
+Interested in:
+- ESP32 and microcontrollers
+- Sensors and electronic components
+- Smart systems and automation
+- MicroPython and embedded C++
+- Connecting hardware with software
 
-<br><br>
+### 🔌 Electronics & PCB Design
 
-  <samp>
-    I genuinely love Python and use it as the foundation
-    of my programming journey.
-  </samp>
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
-<br><br>
+Exploring electronic design and PCB development.
 
-  <samp>
-    I use Python for <strong>Backend Development, Artificial Intelligence,
-    Machine Learning and Computer Vision</strong>.
-  </samp>
+- 📐 Schematic capture
+- 🔋 Electronic circuit design
+- 🟢 PCB layout and routing
+- 🔌 Hardware prototyping
+- ⚡ Designing boards for embedded projects
 
-<br><br>
+I'm currently developing my PCB design skills through hands-on practice and small electronic projects.
 
-  <samp>
-    Alongside Python, I work with <strong>WordPress and PHP</strong>
-    to build modern websites, custom themes, plugins and WooCommerce projects.
-  </samp>
+---
 
-<br><br>
+## 🚀 Featured Projects
 
-  <samp>
-    My goal is to build useful real-world projects,
-    learn deeply and continuously improve my skills.
-  </samp>
+### 🛍️ Mehrta Shop
+A WordPress and WooCommerce e-commerce project focused on cosmetics and health products.
 
-</div>
+**Technologies:** WordPress, WooCommerce, PHP, HTML, CSS
 
-<br>
+### 🏡 MehrEstate
+A real estate website project focused on property presentation and website design.
 
-<!-- ====================================================== -->
+**Technologies:** WordPress, Elementor
 
-<!--                       TERMINAL                         -->
+### 🤖 Machine Learning Experiments
+Practical experiments with datasets, preprocessing pipelines, regression, and model evaluation.
 
-<!-- ====================================================== -->
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, R
 
-<h3 align="center">
-  <code>▎Terminal</code>
-</h3>
+### 🌱 Smart Greenhouse
+An IoT project exploring environmental monitoring, sensors, and automated control.
 
-<div align="center">
+**Technologies:** ESP32, MicroPython, C++, electronic components
 
-<table>
-<tr>
-<td>
+### 🔌 PCB Design Projects
+Learning schematic design, component placement, and PCB routing through electronic design experiments.
 
-<pre>
-<code>
-~/mehrsam $ whoami
+**Tools:** Altium Designer
 
-→ Python Developer
+### 💼 Personal Portfolio
+A personal web development project for presenting my work and learning progress.
 
+**Technologies:** Django, React, TypeScript
 
-~/mehrsam $ cat primary_language.txt
+---
 
-→ Python
+## 📚 Currently Learning
 
-→ My favorite programming language.
-→ My main programming language.
-→ The foundation of my programming journey.
+- 🤖 Machine Learning with Python
+- 🐍 Data preprocessing and model evaluation
+- 🌐 Advanced WordPress and PHP development
+- 💻 Django and backend development
+- ⚛️ React and modern frontend development
+- ⚡ Embedded programming and IoT
+- 🔌 PCB design with Altium Designer
 
+---
 
-~/mehrsam $ cat skills.txt
+## 📊 GitHub Statistics
 
-→ Python        : Primary Language
-→ AI            : Machine Learning · Deep Learning
-→ Computer Vision : OpenCV · Image Processing
-→ Backend       : Django · FastAPI
-→ WordPress     : Themes · Plugins · WooCommerce
-→ PHP           : WordPress Development
-→ SEO           : Technical SEO · Optimization
-→ Tools         : Git · Docker · Linux
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrsam-codes&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrsam-codes&layout=compact&theme=tokyonight&hide_border=true)
 
-~/mehrsam $ cat philosophy.txt
+---
 
-→ Learn deeply.
-→ Build real projects.
-→ Keep code clean.
-→ Practice through projects.
-→ Never stop improving.
+## 🎯 My Goals
 
+- Build practical Machine Learning projects.
+- Improve my Python and backend development skills.
+- Create professional WordPress websites and plugins.
+- Develop useful IoT and embedded systems projects.
+- Design and build my own electronic PCBs.
+- Share my progress and projects with the developer community.
 
-~/mehrsam $ status
+---
 
-→ Learning · Building · Improving
-</code>
-</pre>
+## 🤝 Connect With Me
 
-</td>
-</tr>
-</table>
+🐙 **GitHub:** [mehrsam-codes](https://github.com/mehrsam-codes)
 
-</div>
+🌐 **Website:** [mehrsammirshekar.ir](https://mehrsammirshekar.ir)
 
-<br>
+---
 
-<!-- ====================================================== -->
+### 💡 My Philosophy
 
-<!--                    TECH STACK                          -->
+> Learn something new. Build something useful. Improve every day.
 
-<!-- ====================================================== -->
+⭐ Thanks for visiting my profile!
 
-<h3 align="center">
-  <code>▎Tech Stack</code>
-</h3>
-
-<h4 align="center">🐍 Python & Programming</h4>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-</p>
-
-<h4 align="center">🤖 AI & Computer Vision</h4>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-</p>
-
-<h4 align="center">🌐 Backend Development</h4>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
-
-</p>
-
-<h4 align="center">🧩 WordPress & PHP</h4>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-
-</p>
-
-<h4 align="center">🎨 Web Technologies</h4>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</p>
-
-<h4 align="center">🗄️ Databases & Tools</h4>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                  PYTHON DEVELOPMENT                    -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎Python Development</code>
-</h3>
-
-<div align="center">
-
-  <samp>
-    <strong>Python is my primary programming language.</strong>
-  </samp>
-
-<br><br>
-
-  <samp>
-    I use Python to build backend applications,
-    automation tools and AI-powered projects.
-  </samp>
-
-<br><br>
-
-  <samp>
-    Python is the language I enjoy working with the most,
-    and I want to keep growing as a professional Python Developer.
-  </samp>
-
-</div>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                AI & COMPUTER VISION                   -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎AI & Computer Vision</code>
-</h3>
-
-<div align="center">
-
-  <samp>
-    I'm building my AI expertise with Python,
-    focusing especially on <strong>Computer Vision</strong>.
-  </samp>
-
-<br><br>
-
-  <samp>
-    <strong>Machine Learning</strong>
-    · Data Processing · Model Training · Evaluation
-  </samp>
-
-  <br>
-
-  <samp>
-    <strong>Computer Vision</strong>
-    · Image Processing · OpenCV · Visual AI
-  </samp>
-
-  <br>
-
-  <samp>
-    <strong>Deep Learning</strong>
-    · Neural Networks · PyTorch
-  </samp>
-
-</div>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                WORDPRESS DEVELOPMENT                   -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎WordPress Development</code>
-</h3>
-
-<div align="center">
-
-  <samp>
-    My second major development path is
-    <strong>WordPress Development</strong>.
-  </samp>
-
-<br><br>
-
-  <samp>
-    <strong>WordPress</strong>
-    · Custom Themes · Plugins · WooCommerce
-  </samp>
-
-  <br>
-
-  <samp>
-    <strong>PHP</strong>
-    · Hooks · Filters · WordPress APIs · Plugin Development
-  </samp>
-
-  <br>
-
-  <samp>
-    <strong>SEO</strong>
-    · Technical SEO · Performance · WordPress Optimization
-  </samp>
-
-</div>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                    CURRENT FOCUS                       -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎Current Focus</code>
-</h3>
-
-<div align="center">
-
-  <samp>
-
-```
-🐍 <strong>Python Development</strong>
-<br>
-Python is my primary language and my main programming focus.
-
-<br><br>
-
-🤖 <strong>Artificial Intelligence</strong>
-<br>
-Machine Learning · Deep Learning · Computer Vision
-
-<br><br>
-
-🧩 <strong>WordPress Development</strong>
-<br>
-WordPress · PHP · Themes · Plugins · WooCommerce
-
-<br><br>
-
-🔎 <strong>SEO</strong>
-<br>
-Technical SEO · Website Performance · Optimization
-```
-
-  </samp>
-
-</div>
-
-<br><br>
-
-<!-- ====================================================== -->
-
-<!--                     PROJECTS                           -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎What I'm Building</code>
-</h3>
-
-<div align="center">
-
-  <samp>
-
-```
-🐍 <strong>Python Projects</strong>
-<br>
-Practical software and automation projects with Python.
-
-<br><br>
-
-🤖 <strong>AI & Computer Vision Projects</strong>
-<br>
-Machine Learning and Computer Vision projects using Python.
-
-<br><br>
-
-🛒 <strong>WordPress & WooCommerce Projects</strong>
-<br>
-Professional websites, online stores and custom WordPress solutions.
-
-<br><br>
-
-🧩 <strong>WordPress Plugins</strong>
-<br>
-Learning and building custom plugins with PHP.
-```
-
-  </samp>
-
-</div>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                  GITHUB ANALYTICS                      -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎GitHub Analytics</code>
-</h3>
-
-<div align="center">
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api?username=mehrsam-codes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6ECB9E&icon_color=6ECB9E&text_color=e6edf3"
-/>
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrsam-codes&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6ECB9E&text_color=e6edf3"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
- width="92%"
- src="https://github-readme-activity-graph.vercel.app/graph?username=mehrsam-codes&bg_color=0d1117&hide_border=true&area=true&color=6ECB9E&line=6ECB9E&point=FFFFFF&title_color=6ECB9E"
-/>
-
-</div>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                       CONNECT                          -->
-
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>▎Connect</code>
-</h3>
-
-<p align="center">
-
-  <a href="https://linkedin.com/in/mehrsam">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://twitter.com/mehrsam">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter"
-    />
-  </a>
-
-  <a href="mailto:mehrsam@email.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://dev.to/mehrsam">
-    <img
-      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-      alt="dev.to"
-    />
-  </a>
-
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-
-<!--                       FOOTER                           -->
-
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6ECB9E,100:0d1117&height=120&section=footer"
- width="100%"
-/>
-
-  <br>
-
-<code>mehrsam-codes</code> · © 2026
-
-<br><br>
-
-  <samp>
-    Build with Python. Learn deeply. Build real things.
-  </samp>
-
-</div>
-
-<!-- ====================================================== -->
-
-<!--                        END                             -->
-
-<!-- ====================================================== -->
+**Let's build something awesome!** 🚀
