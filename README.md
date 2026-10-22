@@ -1,175 +1,157 @@
-# 👋 Hey, I'm Mehrsam Mirshekar!
+<div align="center">
 
-### 🐍 Python Developer | 🤖 Machine Learning | 🌐 WordPress Developer | ⚡ IoT & PCB Design
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mehrsam%20Mirshekar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20Mobile%20Developer&descAlignY=58" width="100%" />
 
-**Building projects, learning new technologies, and turning ideas into reality.** 🚀
+### 🐍 Python Developer · 🌐 Web Developer · 📱 Mobile Developer
+
+*Building clean backends, modern websites, and cross-platform mobile apps — one project at a time.*
+
+<p>
+  <a href="https://mehrsammirshekar.ir"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/mehrsam-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mehrsam-codes&style=for-the-badge&color=blueviolet)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-Hi! I'm Mehrsam, a developer interested in Artificial Intelligence, web development, electronics, and embedded systems.
+I'm a developer focused on three main areas:
 
-I enjoy learning by building real projects and exploring how software and hardware can work together.
+- 🐍 **Python Developer** — Data analysis, machine learning, and building production-ready APIs with FastAPI.
+- 🌐 **Web Developer** — Full-stack websites and e-commerce solutions with WordPress, WooCommerce, Laravel, and PHP.
+- 📱 **Mobile Developer** — Cross-platform apps with **Flutter & Dart**, targeting Android and iOS.
+- 🎨 **UI/UX & SEO** — Designing with Figma and optimizing websites for search engines.
+- 🔌 **C++ & AIoT** — Exploring embedded systems, ESP32, sensors, and connecting hardware to the cloud.
 
-- 🐍 Working with Python and exploring Machine Learning.
-- 🤖 Learning data preprocessing, regression, and model evaluation.
-- 🌐 Developing WordPress websites and WooCommerce stores.
-- 💻 Building websites with PHP, HTML, CSS, and JavaScript.
-- ⚡ Exploring IoT and embedded programming with C++ and MicroPython.
-- 🔌 Learning electronic circuit design and PCB layout with Altium Designer.
-- 📊 Using R to explore statistics and data analysis.
+> *I believe the best way to learn is to build — then refine, refactor, and repeat.*
 
-My goal is to keep improving my skills and build useful, real-world projects.
+---
+
+## 🧭 My Learning Roadmap
+
+| Track | Focus |
+| :--- | :--- |
+| **🐍 Python Developer** | Python, NumPy, Pandas, scikit-learn, Machine Learning, FastAPI, REST APIs |
+| **🌐 Web Developer** | PHP, WordPress, Elementor, WooCommerce, MySQL, Laravel, Tailwind CSS |
+| **📱 Mobile Developer** | Flutter, Dart, State Management (Riverpod/Bloc), Firebase, REST Integration |
+| **🎨 UI/UX & SEO** | Figma, Wireframing, Prototyping, On-Page SEO, Technical SEO, Core Web Vitals |
+| **🔌 C++ & AIoT** | C++, Electronics, Microcontrollers, ESP32, Sensors, Smart Systems |
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 🐍 Programming Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🤖 Machine Learning & Data Science
+**Mobile Development**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Currently exploring:**
-- Data cleaning and preprocessing
-- Handling missing values
-- Categorical encoding and feature scaling
-- Linear and multiple regression
-- Training and evaluating ML models
-- Statistical analysis with R
-
-### 🌐 Web Development
+**Web & Backend**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Areas of interest:**
-- WordPress website development
-- WooCommerce and online stores
-- PHP customization and plugin development
-- Responsive design with HTML and CSS
-- Django backend development
-- Modern frontend development
+**Design & SEO**
 
-### ⚡ IoT & Embedded Systems
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+**Tools & Hardware**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-Interested in:
-- ESP32 and microcontrollers
-- Sensors and electronic components
-- Smart systems and automation
-- MicroPython and embedded C++
-- Connecting hardware with software
+---
 
-### 🔌 Electronics & PCB Design
+## 🎯 What I'm Working Toward
 
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-
-Exploring electronic design and PCB development.
-
-- 📐 Schematic capture
-- 🔋 Electronic circuit design
-- 🟢 PCB layout and routing
-- 🔌 Hardware prototyping
-- ⚡ Designing boards for embedded projects
-
-I'm currently developing my PCB design skills through hands-on practice and small electronic projects.
+- 🐍 Building **AI-powered applications** with Python, FastAPI, and machine learning.
+- 🌐 Delivering **high-quality WordPress & Laravel** websites and stores.
+- 📱 Publishing **Flutter apps** to Play Store and App Store.
+- 🎨 Designing **clean, user-friendly interfaces** in Figma.
+- 🔍 Improving **SEO performance** for better visibility and traffic.
+- 🔌 Creating **smart AIoT systems** that connect the physical and digital worlds.
+- 🚀 Growing as a **full-stack, cross-platform developer**.
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 🛍️ Mehrta Shop
-A WordPress and WooCommerce e-commerce project focused on cosmetics and health products.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛍️ **E-commerce Platform** | A full online store with payment, cart, and dashboard | WordPress · WooCommerce · Laravel |
+| 🤖 **ML Prediction API** | A trained ML model served via a clean REST API | Python · scikit-learn · FastAPI |
+| 📱 **Flutter Mobile App** | A cross-platform app with clean architecture | Flutter · Dart · Firebase |
+| 🎨 **UI/UX Design Project** | Wireframes and prototypes for a modern web app | Figma · Prototyping · Design System |
+| 🔍 **SEO Optimized Website** | A website built with technical SEO best practices | WordPress · SEO · Core Web Vitals |
+| 🌱 **Smart Greenhouse** | An AIoT system reading sensors and reporting to a backend | ESP32 · C++ · FastAPI |
 
-**Technologies:** WordPress, WooCommerce, PHP, HTML, CSS
-
-### 🏡 MehrEstate
-A real estate website project focused on property presentation and website design.
-
-**Technologies:** WordPress, Elementor
-
-### 🤖 Machine Learning Experiments
-Practical experiments with datasets, preprocessing pipelines, regression, and model evaluation.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, R
-
-### 🌱 Smart Greenhouse
-An IoT project exploring environmental monitoring, sensors, and automated control.
-
-**Technologies:** ESP32, MicroPython, C++, electronic components
-
-### 🔌 PCB Design Projects
-Learning schematic design, component placement, and PCB routing through electronic design experiments.
-
-**Tools:** Altium Designer
-
-### 💼 Personal Portfolio
-A personal web development project for presenting my work and learning progress.
-
-**Technologies:** Django, React, TypeScript
+> 💡 *Replace these placeholders with your real repositories as they become ready.*
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-- 🤖 Machine Learning with Python
-- 🐍 Data preprocessing and model evaluation
-- 🌐 Advanced WordPress and PHP development
-- 💻 Django and backend development
-- ⚛️ React and modern frontend development
-- ⚡ Embedded programming and IoT
-- 🔌 PCB design with Altium Designer
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehrsam-codes&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrsam-codes&layout=compact&hide_border=true&langs_count=8&theme=radical" alt="Top Languages" />
 
-## 📊 GitHub Statistics
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrsam-codes&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrsam-codes&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrsam-codes&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-## 🎯 My Goals
+## 🤝 Let's Connect
 
-- Build practical Machine Learning projects.
-- Improve my Python and backend development skills.
-- Create professional WordPress websites and plugins.
-- Develop useful IoT and embedded systems projects.
-- Design and build my own electronic PCBs.
-- Share my progress and projects with the developer community.
+<div align="center">
 
----
+I'm always open to collaboration, freelance projects, and learning opportunities.
 
-## 🤝 Connect With Me
+<a href="https://mehrsammirshekar.ir">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" />
+</a>
+<a href="https://github.com/mehrsam-codes">
+  <img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-🐙 **GitHub:** [mehrsam-codes](https://github.com/mehrsam-codes)
-
-🌐 **Website:** [mehrsammirshekar.ir](https://mehrsammirshekar.ir)
+</div>
 
 ---
 
-### 💡 My Philosophy
+<div align="center">
 
-> Learn something new. Build something useful. Improve every day.
+### 💡 Learn. Build. Improve. Repeat.
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
-**Let's build something awesome!** 🚀
+**Thanks for visiting my profile!** ⭐
+
+</div>
