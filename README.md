@@ -1,11 +1,10 @@
-
-<div align="center">
+ <div align="center">
 
 # Mehrsam Mirshekar
 
-### AI Specialist · Web Developer · Backend Developer · Mobile Developer
+### Python Developer · AI/ML Enthusiast · PHP & Backend Developer
 
-**Building intelligent digital experiences.** 🚀
+**Building intelligent applications and modern web experiences.** 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mehrsammirshekar.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehrsam-codes)
@@ -16,32 +15,58 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Mehrsam, a developer passionate about AI, web technologies, backend systems, and mobile applications.
+Hi! I'm Mehrsam, a developer passionate about Python, Artificial Intelligence, backend development, and web technologies.
 
-- 🤖 Exploring AI, Machine Learning, and Computer Vision
-- 🌐 Developing websites with WordPress and PHP
-- ⚙️ Building backend applications with Laravel and FastAPI
-- 📱 Creating cross-platform apps with Flutter
-- 🎯 Focused on learning, building, and improving every day
-
+- 🤖 Exploring **Machine Learning, Deep Learning, and Computer Vision**
+- 🐍 Developing AI and backend applications with **Python and FastAPI**
+- 🌐 Building professional websites and online stores with **WordPress and WooCommerce**
+- ⚙️ Developing backend applications with **PHP and Laravel**
+- 🎨 Exploring **Tailwind CSS, UI/UX Design, and Figma**
+- 📈 Learning SEO and practical skills for freelance development
+- 🚀 Focused on building real-world projects and improving my development skills every day
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,wordpress,html,css,tailwind,flutter,dart,mysql,fastapi,git,github,figma&perline=7" alt="Tech Stack"/>
+### 🐍 Python & Artificial Intelligence
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="48" height="48" alt="Livewire"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi&perline=7" alt="Python and FastAPI"/>
+
+**Areas of interest:** Machine Learning · Deep Learning · Computer Vision · Data Analysis · AI Applications
+
+### 🌐 Web Development & Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,html,css,tailwind,livewire&perline=7" alt="Web Development Stack"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg"
+     width="48"
+     height="48"
+     alt="Livewire"/>
+
+### 🗄️ Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,figma&perline=7" alt="Databases and Tools"/>
 
 </div>
 
-
-
 ## 🚀 Featured Projects
 
-- 🌍 **Portfolio Website** — [mehrsammirshekar.ir](https://mehrsammirshekar.ir)
-- 🛍️ **Mehrta Shop** — E-commerce website project
-- 🧠 **AI Projects** — Exploring machine learning and intelligent applications
+- 🌍 **Personal Portfolio** — [mehrsammirshekar.ir](https://mehrsammirshekar.ir)
+- 🛍️ **Mehrta Shop** — Persian and Turkish cosmetics e-commerce project built with WordPress and WooCommerce
+- 🧠 **Machine Learning Projects** — Exploring predictive models, regression, and intelligent applications
+- ⚡ **FastAPI Projects** — Building Python APIs and backend services for web and AI applications
+
+## 🎯 Current Focus
+
+| Area | Technologies |
+|---|---|
+| Artificial Intelligence | Python, NumPy, Pandas, Scikit-learn |
+| Backend & AI APIs | FastAPI |
+| Web Development | PHP, WordPress, WooCommerce |
+| Backend Framework | Laravel |
+| Styling & Design | HTML, CSS, Tailwind CSS, Figma |
+| Databases & Tools | SQL, MySQL, Git, GitHub |
+| Additional Skills | SEO, UI/UX, Freelancing |
 
 ## 📊 GitHub Stats
 
@@ -57,8 +82,8 @@ Hi! I'm Mehrsam, a developer passionate about AI, web technologies, backend syst
 
 <div align="center">
 
-### 💡 Code. Create. Innovate.
+### 💡 Code. Learn. Build. Innovate.
 
-*Always learning. Always building.*
+*Turning ideas into intelligent applications and useful digital products.* 🚀
 
 </div>
